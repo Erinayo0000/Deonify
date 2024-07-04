@@ -1,5 +1,7 @@
 
-
+.navbar{
+    background-color: #03011D
+}
 
 /* Change the color of the navbar-toggler-icon to white */
 .navbar-toggler-icon {
