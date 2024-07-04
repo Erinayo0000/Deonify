@@ -1,7 +1,5 @@
 
-.navbar{
-    background-color: #03011D
-}
+
 
 /* Change the color of the navbar-toggler-icon to white */
 .navbar-toggler-icon {
@@ -15,9 +13,7 @@
     border-radius: 5px;
     
   }
-  .nav-link{
-    color: #CFCCED;
-  }
+ 
   .gradient-background {
    background-color: #03011D;
     height: 100vh;/* Set height to full viewport height */
@@ -29,6 +25,4 @@
       background-repeat: no-repeat;
      height:30rem;
     }
-    .p-colour1{
-      color: #CFCCED;
-    }
+    
